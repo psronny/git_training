@@ -1,4 +1,2 @@
 
 This is sample test file.
-
-Git revert trying.
